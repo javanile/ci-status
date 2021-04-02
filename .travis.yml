@@ -1,0 +1,7 @@
+os: windows
+
+language: shell
+
+script:
+  - bash script/travis.sh
+  
