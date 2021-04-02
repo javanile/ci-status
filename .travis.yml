@@ -3,5 +3,5 @@ os: windows
 language: shell
 
 script:
-  - bash script/travis.sh
+  - bash script/travis-ci.sh
   
